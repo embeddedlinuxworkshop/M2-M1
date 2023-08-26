@@ -97,6 +97,7 @@ bin/ct-ng build
 
 - ldd tool.
 - readelf + grep.
+- LD_LIBRARY_PATH
 ---
 
 ## 9. Create static library.
