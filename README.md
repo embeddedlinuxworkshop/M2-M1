@@ -1,4 +1,3 @@
-# M2-S1
 
 ## 1. Toolchain.
 
@@ -67,7 +66,7 @@ make install
 ---
 ## 3. Understand what are inside Toolchain ?
 
-- 
+- ![[1. Toolchain.png]]
 ---
 
 ## 4. Cross Compiling.
@@ -120,7 +119,6 @@ aarch64-rpi3-linux-gnu-g++ <main_program>.cpp -loutput
 
 
 ---
-
 
 
 
