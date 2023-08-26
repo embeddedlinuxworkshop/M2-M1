@@ -66,7 +66,7 @@ make install
 ---
 ## 3. Understand what are inside Toolchain ?
 
-- ![alt text](https://github.com/embeddedlinuxworkshop/M2-M1/blob/main/1. Toolchain.jpg?raw=true)
+- ![alt text](https://github.com/embeddedlinuxworkshop/M2-M1/blob/main/1.%20Toolchain.png)
 ---
 
 ## 4. Cross Compiling.
