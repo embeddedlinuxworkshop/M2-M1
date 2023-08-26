@@ -59,7 +59,7 @@ make install
 - Manual compiling through crossTOOLNG.
 
 ```shell
-bin/ct-ng disclean
+bin/ct-ng distclean
 bin/ct-ng list-samples
 bin/ct-ng <choose sample>
 bin/ct-ng menuconfig
