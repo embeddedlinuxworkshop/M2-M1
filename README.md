@@ -58,6 +58,15 @@ make install
 - Pre-built.
 - Manual compiling through crossTOOLNG.
 
+```shell
+bin/ct-ng disclean
+bin/ct-ng list-samples
+bin/ct-ng <choose sample>
+bin/ct-ng menuconfig
+bin/ct-ng build
+
+# output path: ~/x-tools
+```
 
 ## 2. Building a Toolchain.
 
